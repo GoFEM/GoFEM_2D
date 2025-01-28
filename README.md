@@ -1,3 +1,5 @@
+2-D Magnetotelluric and controlled-source electromagnetic modelling code.
+
 ### Create a conda environment
 
 You need to create a pyGoFEM environment without the deal.II library (we will compile it manually as decribed below):
